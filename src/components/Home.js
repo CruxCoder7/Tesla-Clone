@@ -56,6 +56,8 @@ function Home() {
                 leftBtnText="Shop Now"
             />
 
+            <Section />
+
         </Container>
     )
 }
